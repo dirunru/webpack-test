@@ -18,7 +18,6 @@
   ```
   npm install css-loader style-loader --save-dev
   ```
-  --------
   ```
   const path = require('path');  // 首先要引入node.js中path 模块，用于处理文件与目录的路径
 
