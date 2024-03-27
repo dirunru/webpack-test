@@ -1,6 +1,6 @@
 # 从0-1学习webpack，搭建一个能够运行的项目
 - 新建webpack.config.js
-- npm install --save-dev webpack webpack-cli
+- npm install --save-dev webpack webpack-cli webpack-dev-server
 - npm init 指令创建项目描述文件 package.json文件。
     ```
     name 项目名称,不填则默认更目录
