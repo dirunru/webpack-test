@@ -1,0 +1,15 @@
+body{
+  background-color:rgb(36, 114, 118);
+}
+.bg1{
+  height: 200px;
+  width: 200px;
+  background: url('../imgs/a.jpg') no-repeat;
+  background-size: cover;
+}
+.bg2{
+  height: 200px;
+  width: 200px;
+  background: url('../imgs/b.jpg') no-repeat;
+  background-size: cover;
+}
